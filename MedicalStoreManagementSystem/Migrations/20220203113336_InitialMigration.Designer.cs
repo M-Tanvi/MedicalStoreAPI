@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MedicalStoreManagementSystem.Migrations
 {
     [DbContext(typeof(MedicalContext))]
-    [Migration("20220113100156_InitialMigration")]
+    [Migration("20220203113336_InitialMigration")]
     partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

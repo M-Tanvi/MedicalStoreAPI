@@ -7495,11 +7495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tannavi\\Desktop\\MAPI\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Tannavi\\Desktop\\MedicalStore\\MAPI\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
       "projectName": "MedicalStoreManagementSystem",
-      "projectPath": "C:\\Users\\Tannavi\\Desktop\\MAPI\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
+      "projectPath": "C:\\Users\\Tannavi\\Desktop\\MedicalStore\\MAPI\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Tannavi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tannavi\\Desktop\\MAPI\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\Tannavi\\Desktop\\MedicalStore\\MAPI\\MedicalStoreManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tannavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
