@@ -1,0 +1,16 @@
+services:
+  medicalstoremanagementsystem:
+    build:
+      context: C:\Users\Tannavi\Desktop\MedicalStore\MAPI
+      dockerfile: MedicalStoreManagementSystem/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: medicalstoremanagementsystem
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\Tannavi\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Tannavi\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'
