@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Q8nkbEu0pkaJtq9WQoXUhQPyvbUzyxW9uFW+xYaDBRakRHPjbPjErzQlfaah3VdalXuRdo8NWcBTo5Y42+ENw==",
+  "dgSpecHash": "Y5CoUYNt1SL3QOz4JpJMjeYTS24UNsvPzQqC5ubBjnFXrWa1g8ALz/W9wZsfYksNEzWdXXO4bKpixhkE9aBGAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tannavi\\Desktop\\MedicalStore\\MAPI\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\Tannavi\\Desktop\\MAPI\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tannavi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tannavi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
@@ -51,7 +51,6 @@
     "C:\\Users\\Tannavi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Tannavi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\Tannavi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Tannavi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Tannavi\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\5.0.2\\microsoft.visualstudio.web.codegeneration.5.0.2.nupkg.sha512",
     "C:\\Users\\Tannavi\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\5.0.2\\microsoft.visualstudio.web.codegeneration.contracts.5.0.2.nupkg.sha512",
     "C:\\Users\\Tannavi\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\5.0.2\\microsoft.visualstudio.web.codegeneration.core.5.0.2.nupkg.sha512",
