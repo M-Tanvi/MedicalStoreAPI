@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedicalStoreManagementSystem", "MedicalStoreManagementSystem\MedicalStoreManagementSystem.csproj", "{B8EE3244-C866-4A00-9CD2-AD0B18DB8103}"
 EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{910F235F-25ED-4A05-9816-7025C4B1B97E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{B8EE3244-C866-4A00-9CD2-AD0B18DB8103}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8EE3244-C866-4A00-9CD2-AD0B18DB8103}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8EE3244-C866-4A00-9CD2-AD0B18DB8103}.Release|Any CPU.Build.0 = Release|Any CPU
-		{910F235F-25ED-4A05-9816-7025C4B1B97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{910F235F-25ED-4A05-9816-7025C4B1B97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{910F235F-25ED-4A05-9816-7025C4B1B97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{910F235F-25ED-4A05-9816-7025C4B1B97E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
