@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Q8nkbEu0pkaJtq9WQoXUhQPyvbUzyxW9uFW+xYaDBRakRHPjbPjErzQlfaah3VdalXuRdo8NWcBTo5Y42+ENw==",
+  "dgSpecHash": "M+fIlb0EZRHXzExJj7Zg4wpdE1oQLnbnzTgf1PBAQ/cmDUgsjCthkEMO09NMhZRR6rniq3HnTPNl25YSgwQCpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tannavi\\Desktop\\MedicalStore\\MAPI\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\Tannavi\\Desktop\\MAPI\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tannavi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tannavi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
